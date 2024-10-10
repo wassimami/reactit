@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/reactit/static/css/main.22573856.css",
-    "main.js": "/reactit/static/js/main.25695ece.js",
+    "main.js": "/reactit/static/js/main.ec1d3a41.js",
     "static/js/453.eceb90f9.chunk.js": "/reactit/static/js/453.eceb90f9.chunk.js",
     "static/media/SEGA.woff": "/reactit/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/reactit/index.html",
     "main.22573856.css.map": "/reactit/static/css/main.22573856.css.map",
-    "main.25695ece.js.map": "/reactit/static/js/main.25695ece.js.map",
+    "main.ec1d3a41.js.map": "/reactit/static/js/main.ec1d3a41.js.map",
     "453.eceb90f9.chunk.js.map": "/reactit/static/js/453.eceb90f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.22573856.css",
-    "static/js/main.25695ece.js"
+    "static/js/main.ec1d3a41.js"
   ]
 }
